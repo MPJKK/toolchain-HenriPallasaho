@@ -1,0 +1,26 @@
+:host {
+  height: 6rem;
+  width: 100%;
+}
+
+header{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  background-color: rgba(0, 6, 6, 0.42);
+}
+
+img {
+  display: block;
+  width: auto;
+  height: 4rem;
+  padding-left: 90px;
+}
+
+h1 {
+  flex: 2;
+  line-height: 4rem;
+  margin: 0;
+  padding-left: 5%;
+  color: white;
+}
